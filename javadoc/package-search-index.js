@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"blackbelt.exercise.DVDRental"},{"l":"blackbelt.exercise.DVDRental.controller"},{"l":"blackbelt.exercise.DVDRental.db"},{"l":"blackbelt.exercise.DVDRental.model"},{"l":"blackbelt.exercise.DVDRental.model.movie"},{"l":"blackbelt.exercise.DVDRental.service"}]

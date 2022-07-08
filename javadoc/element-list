@@ -1,0 +1,6 @@
+blackbelt.exercise.DVDRental
+blackbelt.exercise.DVDRental.controller
+blackbelt.exercise.DVDRental.db
+blackbelt.exercise.DVDRental.model
+blackbelt.exercise.DVDRental.model.movie
+blackbelt.exercise.DVDRental.service
